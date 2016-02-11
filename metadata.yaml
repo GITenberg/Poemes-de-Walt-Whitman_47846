@@ -1,0 +1,27 @@
+_repo: Poemes-de-Walt-Whitman_47846
+contributor:
+  translator:
+    agent_name: Bazalgette, Léon
+    gutenberg_agent_id: '44500'
+    url: http://www.gutenberg.org/2009/agents/44500
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2015-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47846'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Poèmes de Walt Whitman
+url: http://www.gutenberg.org/ebooks/47846
