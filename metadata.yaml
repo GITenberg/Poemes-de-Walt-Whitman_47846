@@ -1,9 +1,13 @@
 _repo: Poemes-de-Walt-Whitman_47846
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Bazalgette, Léon
     gutenberg_agent_id: '44500'
     url: http://www.gutenberg.org/2009/agents/44500
+covers:
+- cover_type: archival
+  image_path: 47846-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitman, Walt
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/600
     wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47846#Poemes-de-Walt-Whitman
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
